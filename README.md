@@ -75,7 +75,7 @@ This project allows you to control the **color** of an RGB LED using two **butto
 
 ## OLED Display in Action
 
-![OLED Showing Color](oled-esp32.jpg)
+<img src="oled-esp32.jpg" alt="Wiring Diagram" width="400"/>
 
 ## 📝 Notes
 
