@@ -49,6 +49,8 @@ This project allows you to control the **color** of an RGB LED using two **butto
 | Next Color       | GPIO 4     | Use INPUT_PULLUP           |
 | Previous Color   | GPIO 5     | Use INPUT_PULLUP           |
 
+
+## Wired ESP32
 ![Wiring Diagram](wiring-esp32.jpg)
 
 ## 🧠 Features
