@@ -51,7 +51,7 @@ This project allows you to control the **color** of an RGB LED using two **butto
 
 
 ## Wired ESP32
-![Wiring Diagram](wiring-esp32.jpg)
+<img src="wiring-esp32.jpg" alt="Wiring Diagram" width="400"/>
 
 ## 🧠 Features
 
