@@ -49,6 +49,8 @@ This project allows you to control the **color** of an RGB LED using two **butto
 | Next Color       | GPIO 4     | Use INPUT_PULLUP           |
 | Previous Color   | GPIO 5     | Use INPUT_PULLUP           |
 
+![Wiring Diagram](wiring-esp32.jpg)
+
 ## 🧠 Features
 
 - Select **color** from a preset list using **buttons**
@@ -68,6 +70,10 @@ This project allows you to control the **color** of an RGB LED using two **butto
 4. Copy the full Arduino sketch (`.ino`) into the IDE.
 5. Connect components according to the wiring above.
 6. Upload and run!
+
+## OLED Display in Action
+
+![OLED Showing Color](oled-esp32.jpg)
 
 ## 📝 Notes
 
